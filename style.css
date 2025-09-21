@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(231, 231, 220);
+  background-color: #e7e7dc;
   text-align: center;
 }
 
@@ -9,7 +9,7 @@ img {
 }
 h1 {
   font-family: Arial, Helvetica, sans-serif;
-  color: rgb(44, 110, 110);
+  color: #2c6e6e;
   font-weight: lighter;
   margin-top: 0.5px;
 }
@@ -30,7 +30,7 @@ button:hover {
 
 a:hover {
   opacity: 1;
-  color: rgb(181, 60, 173);
+  color: #b53cad;
   text-decoration: underline;
-  text-decoration-color: rgb(164, 54, 54);
+  text-decoration-color: #a43636;
 }
